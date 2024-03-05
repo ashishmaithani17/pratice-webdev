@@ -1,0 +1,9 @@
+.navbar{
+    border: 4px;
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar li {
+    list-style: none;
+}
